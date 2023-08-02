@@ -4,6 +4,6 @@
 
 <h1>
   
-  [Stocks Price Visualization](https://stocks-price-visualization.streamlit.app/)
+  [Stock Price Visualization](https://stock-price-visualization-app.streamlit.app/)
 
 </h1>
