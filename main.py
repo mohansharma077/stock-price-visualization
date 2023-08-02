@@ -8,7 +8,7 @@ def main():
     # Load the custom CSS
 
     st.title("Real-time Stock Price Data")
-    a = st.text_input("Enter Company Symbol:")
+    a = st.text_input("Enter Company Symbol (e.g. AAPL, MSFT, GOOG, TSLA) ")
     b = st.text_input("Enter the range in month(e.g. 1 month, 2 month) ")
 
     if a and b:
